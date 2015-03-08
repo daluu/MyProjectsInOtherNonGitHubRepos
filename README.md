@@ -1,4 +1,4 @@
-# MyProjectsInOtherRepos
+# MyProjectsInOtherNonGitHubRepos
 Just a listing of my projects on other open source hosting sites (and thus not on GitHub - yet)
 
 
