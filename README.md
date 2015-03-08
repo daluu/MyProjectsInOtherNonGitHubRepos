@@ -10,4 +10,11 @@ https://sourceforge.net/u/daluu/profile/
 
 e.g. File based DTMF detector
 
+http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=850321
+
+e.g. Web/HTTP Automation with Perl, Web Ink/Drawing Control, Web/HTTP Request and Automation Libraries
+
+http://www.codeproject.com/Articles/10949/ASCII-Art-Generator
+
+e.g. ported the Windows desktop application version
 
