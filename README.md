@@ -18,3 +18,7 @@ http://www.codeproject.com/Articles/10949/ASCII-Art-Generator
 
 e.g. ported the Windows desktop application version
 
+http://www.codeplex.com/site/users/view/mangar00
+
+e.g. MS SQL Server Profiler XML Trace Converters
+
